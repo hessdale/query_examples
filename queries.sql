@@ -1,0 +1,1 @@
+update city set name='kelowna' where name='test';
